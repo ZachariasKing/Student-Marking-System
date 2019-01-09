@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is a software project that mimics the problem domain of marking
+student's work. 
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Student Marking System
 PURPOSE OF PROJECT: To process student's marks and store them.
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+VERSION or DATE: v1
