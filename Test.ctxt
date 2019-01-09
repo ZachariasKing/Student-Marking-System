@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ 'Test'\ models\ a\ representation\ of\ how\ the\ user\ would\ go\ through\ the\ system\ step-by-step.\r\n\r\n\ @author\ Zacharias\r\n\ @version\ 08/02/2018\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TestThis\ constructor,\ providing\ comments\ for\ each\ unit,\ will\ test\r\n\ the\ fundamental\ processes\ we\ need\ to\ carry\ out\ in\ order\ for\ this\ program\ to\ be\ successful.\ This\ will\ include\ any\ conditional\ \r\n\ statements,\ methods\ and\ objects\ being\ created.\r\n\ \r\n\ @throws\ FileNotFoundException\ If\ an\ I\\O\ error\ occurs.\r\n
+numComments=2

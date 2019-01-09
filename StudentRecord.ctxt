@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StudentRecord
+comment0.text=\r\n\ 'StudentRecord'\ models\ a\ record\ for\ a\ student\ in\ the\ sense\ that\ it\r\n\ has\ a\ name,\ an\ amount\ of\ marks\ and\ the\ mark\ values\ themselves.\ \r\n\ \r\n\ \r\n\ @author\ Zacharias\ King\r\n\ @version\ 08/02/2018\r\n
+comment1.params=newName\ newMarks
+comment1.target=StudentRecord(java.lang.String,\ int[])
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentRecord.\r\n\ \r\n\ @param\ newName\ the\ name\ we\ give\ to\ the\ student.\r\n\ @param\ newMarks\ the\ marks\ associated\ with\ that\ student\ (stored\ in\ an\ array).\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ This\ method\ returns\ the\ name\ of\ the\ student.\r\n\ \r\n\ @return\ the\ name\ of\ the\ student.\r\n
+comment3.params=
+comment3.target=int\ getNoOfMarks()
+comment3.text=\r\n\ This\ method\ returns\ the\ number/amount\ of\ marks\ allocated\ to\ each\ student.\r\n\ \r\n\ @return\ the\ number\ of\ marks\ given\ to\ each\ student.\r\n
+comment4.params=
+comment4.target=int[]\ getMarks()
+comment4.text=\r\n\ This\ method\ returns\ the\ marks\ associated\ with\ one\ student\ instance.\r\n\ \r\n\ @return\ the\ marks\ a\ student\ got\ in\ an\ <code>array</code>\ of\ int.\r\n
+comment5.params=newName
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\r\n\ This\ method\ allows\ us\ to\ alter\ the\ name\ of\ the\ student\ via\ a\ mutator\ method.\r\n\ \r\n\ @param\ newName\ is\ the\ new\ name\ we\ want\ to\ give\ the\ student.\r\n
+numComments=6

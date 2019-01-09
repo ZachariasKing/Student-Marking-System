@@ -1,0 +1,32 @@
+CC3 Group 2
+5
+Ainger Nick
+65 85 77 89 45
+Austin  John
+87 93 81 22 34
+Baker Norman 
+47 86 85 40 67
+Denham John
+73 40 93 53 75
+Eagle Maria
+17 61 55 53 84
+Hall Patrick
+100 70 98 47 56
+Holloway Adam
+40 74 70 70 79
+Jones Lynne
+53 42 75 47 81
+Khan Sadiq
+53 74 65 0 83
+Lazarowicz Mark
+47 82 85 93 85
+Mallaber Judy
+70 67 65 55 65
+Mitchell Andrew
+47 75 75 98 75
+Osborne Sandra
+0 84 0 70 0
+Price Adam
+43 56 70 75 70
+Robertson Laurence
+0 79 0 65 81

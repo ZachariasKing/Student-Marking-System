@@ -1,0 +1,16 @@
+CC3 Group 2
+Name: Ainger Nick Marks: 65 85 77 89 45 
+Name: Austin  John Marks: 87 93 81 22 34 
+Name: Baker Norman  Marks: 47 86 85 40 67 
+Name: Denham John Marks: 73 40 93 53 75 
+Name: Eagle Maria Marks: 17 61 55 53 84 
+Name: Hall Patrick Marks: 100 70 98 47 56 
+Name: Holloway Adam Marks: 40 74 70 70 79 
+Name: Jones Lynne Marks: 53 42 75 47 81 
+Name: Khan Sadiq Marks: 53 74 65 0 83 
+Name: Lazarowicz Mark Marks: 47 82 85 93 85 
+Name: Mallaber Judy Marks: 70 67 65 55 65 
+Name: Mitchell Andrew Marks: 47 75 75 98 75 
+Name: Osborne Sandra Marks: 0 84 0 70 0 
+Name: Price Adam Marks: 43 56 70 75 70 
+Name: Robertson Laurence Marks: 0 79 0 65 81 
