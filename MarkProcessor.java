@@ -8,7 +8,7 @@ import java.io.*;
  * they were allocated and stores that input in a 'StudentRecord' object which is then 
  * added to an <code>ArrayList</code>.
  *
- * @author Zacharias King
+ * @author Zac King
  * @version 08/02/2018
  */
 public class MarkProcessor
